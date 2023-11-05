@@ -59,8 +59,14 @@ Slide the claw mechanism back in. Double check the image to figure out where it 
 Do not force anything. The claw may bind a bit at the front. You can wiggle the assembly a bit to the left and that   
 will free up the claw.  
 ![24](https://github.com/vintagefilmography/Sankyo_gatemask_removal/assets/48537944/f5bc3c05-80af-4a17-a51e-d948d7ef3919)  
-
-
+Slide the claw assembly in. You need to open up the assembly a bit against the spring so that the claw level sits on the  
+can hub and the bottom frame alignment post gets engaged with the framer control lever.
+Also check the mounting tabs on the assembly. They should be over the mounting posts if the claw assembly is in properly.  
+Screw the assembly in using the mounting screws.   
+The top mounting screw is shared with the terminal strip. The strip mounting tab fits on top of the claw assembly tab and then teh washer goes on top   
+of that.
+Do not forget the 2nd terminal strip screw and the belt.  
+This completes the procedure.  
 
 
 
